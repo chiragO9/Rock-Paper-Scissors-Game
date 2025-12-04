@@ -9,7 +9,7 @@ A simple command-line Rock Paper Scissors game for two players written in Python
 
 This is my first Python project! It's a classic Rock Paper Scissors game where two players can compete against each other. Players enter their moves, and the program determines the winner based on the traditional game rules.
 
-### v1.0 - December 2024
+### v1.0 - 12 December 2024
 -  Initial release
 -  Two-player mode
 -  Basic game rules (Rock beats Scissors, Scissors beats Paper, Paper beats Rock)
