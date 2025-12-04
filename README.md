@@ -18,8 +18,8 @@ This is my first Python project! It's a classic Rock Paper Scissors game where t
 
 ## Game Rules
 
-- Rock beats Scissors
-- Scissors beats Paper  
+- Rock beats Scissor
+- Scissor beats Paper  
 - Paper beats Rock
 - Same moves result in a tie
 
