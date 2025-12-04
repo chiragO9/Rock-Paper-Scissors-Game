@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game 
+# Rock Paper Scissor Game 
 
 A simple command-line Rock Paper Scissors game for two players written in Python.
 
