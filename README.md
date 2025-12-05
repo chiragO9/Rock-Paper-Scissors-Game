@@ -1,5 +1,9 @@
 # Rock Paper Scissor Game 
 
+**Current Version:** v1.2 | **Status:** Active
+
+**FIXED:** Input is now case-insensitive (Rock, ROCK, rock all work)
+
 **Current Version:** v1.0 | **Status:** Active
 
 A simple command-line Rock Paper Scissors game for two players written in Python.
