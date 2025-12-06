@@ -107,7 +107,7 @@ Player wins!
 ## Project Timeline
 
 **Started:** 11 December 2024  
-**Last Updated:**12 December 2024  
+**Last Updated**:12 December 2024  
 **Status:**  Active Development
 
 ---
