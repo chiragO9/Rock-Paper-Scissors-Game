@@ -1,5 +1,36 @@
 # Rock Paper Scissor Game 
 
+**Current Version:** v2.0 | **Status:** Active
+
+### v2.0 - December 2024
+-  **NEW:** Play against computer AI
+-  **NEW:** Random computer opponent
+-  **NEW:** Computer makes random choices using randint
+- **IMPROVED:** More engaging single-player experience
+
+## Features
+
+-  **Play against Computer AI** - Challenge the computer!
+-  **Random AI decisions** - Computer makes unpredictable moves
+-  Case-insensitive input (rock, ROCK, Rock all work)
+-  Input validation
+-  Win/loss/tie detection
+
+## How to Play
+
+1. Run the program
+2. Enter your move (rock/paper/scissor)
+3. Computer makes its move
+4. Winner is announced!
+
+## Technologies Used
+
+- Python 3
+- Random module (for AI opponent)
+
+
+A simple command-line Rock Paper Scissors game where you play against the computer.
+
 **Current Version:** v1.2 | **Status:** Active
 
 **FIXED:** Input is now case-insensitive (Rock, ROCK, rock all work)
