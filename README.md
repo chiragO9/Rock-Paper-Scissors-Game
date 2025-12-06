@@ -1,92 +1,147 @@
-# Rock Paper Scissor Game 
+# Rock Paper Scissors Game 🎮
 
-**Current Version:** v2.0 | **Status:** Active
+**Current Version:** v2.0 | **Status:** Active | [All Releases](https://github.com/chiragO9/Rock-Paper-Scissors-Game/releases)
 
-### v2.0 - December 2024
--  **NEW:** Play against computer AI
--  **NEW:** Random computer opponent
--  **NEW:** Computer makes random choices using randint
-- **IMPROVED:** More engaging single-player experience
+A simple command-line Rock Paper Scissors game where you play against the computer AI!
 
-## Features
+---
 
--  **Play against Computer AI** - Challenge the computer!
--  **Random AI decisions** - Computer makes unpredictable moves
--  Case-insensitive input (rock, ROCK, Rock all work)
--  Input validation
--  Win/loss/tie detection
+## 🤖 About
 
-## How to Play
+This is my first Python project! Started as a two-player game, it now features an AI opponent that makes random moves. Challenge the computer and see if you can win!
 
-1. Run the program
-2. Enter your move (rock/paper/scissor)
-3. Computer makes its move
-4. Winner is announced!
+---
 
-## Technologies Used
+## ✨ Features
 
-- Python 3
-- Random module (for AI opponent)
+**Current (v2.0):**
+- 🤖 **Play against Computer AI** - Challenge the computer opponent!
+- 🎲 **Random AI decisions** - Computer makes unpredictable moves using `randint`
+- ✅ **Case-insensitive input** - Type rock, ROCK, or Rock - all work!
+- 🎯 **Input validation** - Helpful error messages for invalid moves
+- 🏆 **Win/loss/tie detection** - Clear game results
 
+---
 
-A simple command-line Rock Paper Scissors game where you play against the computer.
+## 🎮 How to Run
 
-**Current Version:** v1.2 | **Status:** Active
-
-**FIXED:** Input is now case-insensitive (Rock, ROCK, rock all work)
-
-**Current Version:** v1.0 | **Status:** Active
-
-A simple command-line Rock Paper Scissors game for two players written in Python.
-
-
-## Description
-
-This is my first Python project! It's a classic Rock Paper Scissors game where two players can compete against each other. Players enter their moves, and the program determines the winner based on the traditional game rules.
-
-### v1.0 - 4 December 2024
--  Initial release
--  Two-player mode
--  Basic game rules (Rock beats Scissors, Scissors beats Paper, Paper beats Rock)
--  Input validation
--  Win/loss/tie detection
-
-## Game Rules
-
-- Rock beats Scissor
-- Scissor beats Paper  
-- Paper beats Rock
-- Same moves result in a tie
-
-## How to Run
-
-Make sure you have Python installed on your computer.
+Make sure you have Python 3 installed on your computer.
 ```bash
-# Run the game
 python game.py
 ```
 
-## How to Play
+---
+
+## 📖 How to Play
 
 1. Run the program
-2. Player 1 enters their move (Rock/Paper/Scissor)
-3. Player 2 enters their move (Rock/Paper/Scissor)
-4. The winner is announced!
+2. Enter your move: `rock`, `paper`, or `scissor`
+3. Computer makes its move
+4. Winner is announced!
 
-## Example
+---
+
+## 📝 Example Game
 ```
 Rock....
 Paper....
 Scissor....
-player1 make your move Rock
-player2 make your move Scissor
-player1 wins
+
+Player, make your move: rock
+Computer plays: scissor
+
+Player wins! 🎉
 ```
 
-## Technologies Used
+---
+
+## 🎯 Game Rules
+
+- 🪨 **Rock** beats Scissors
+- ✂️ **Scissors** beats Paper
+- 📄 **Paper** beats Rock
+- 🤝 Same moves = Tie
+
+---
+
+## 💻 Technologies Used
 
 - Python 3
+- Random module (for AI opponent)
 
-## Date
+---
 
-4 December 2025
+## 📚 What I Learned
+
+- Python basics and syntax
+- Conditional statements (if/elif/else)
+- User input with `input()` function
+- String methods (`.lower()`)
+- Random number generation (`randint`)
+- AI opponent logic
+- Input validation
+
+---
+
+## 📋 Version History
+
+### v2.0 - December 2024
+- ✨ **NEW:** AI Computer Opponent - Play against the computer!
+- 🎲 **NEW:** Random computer moves using `randint`
+- 🎮 **NEW:** Single-player mode - No friend needed!
+- 📈 **IMPROVED:** More engaging gameplay experience
+
+### v1.2 - December 2024
+- 🐛 **FIXED:** Input is now case-insensitive (Rock, ROCK, rock all work)
+- 📈 **IMPROVED:** Better user experience with flexible input
+
+### v1.0 - December 2024
+- 🎉 **Initial release**
+- ✅ Two-player mode
+- ✅ Basic game rules implementation
+- ✅ Win/loss/tie detection
+
+---
+
+## 🚀 Future Plans
+
+- [ ] Add score tracking (best of 3/5 rounds)
+- [ ] Add difficulty levels (Easy/Medium/Hard AI)
+- [ ] Create mode selection (vs Computer / vs Friend)
+- [ ] Add game statistics
+- [ ] Create GUI version
+
+---
+
+## 📥 Download
+
+- 📦 [Latest Release (v2.0)](https://github.com/chiragO9/Rock-Paper-Scissors-Game/releases/latest)
+- 📦 [v1.2 - Bug Fix](https://github.com/chiragO9/Rock-Paper-Scissors-Game/releases/tag/v1.2)
+- 📦 [v1.0 - Initial](https://github.com/chiragO9/Rock-Paper-Scissors-Game/releases/tag/v1.0)
+
+---
+
+## 👤 Author
+
+**Chirag Solanki**
+
+- GitHub: [@chiragO9](https://github.com/chiragO9)
+- Project: [Rock-Paper-Scissors-Game](https://github.com/chiragO9/Rock-Paper-Scissors-Game)
+
+---
+
+## 📅 Project Timeline
+
+**Started:** December 2024  
+**Last Updated:** December 2024  
+**Status:** ✅ Active Development
+
+---
+
+## 📄 License
+
+This project is open source and available for educational purposes.
+
+---
+
+**Enjoy the game! May the odds be in your favor! 🎲**
