@@ -2,7 +2,7 @@
 
 **Current Version:** v2.0 | **Status:** Active | [All Releases](https://github.com/chiragO9/Rock-Paper-Scissors-Game/releases)
 
-A simple command-line Rock Paper Scissors game where you play against the computer AI!
+A simple command-line Rock Paper Scissors game where you play against the computer.
 
 ---
 
