@@ -8,7 +8,7 @@ A simple command-line Rock Paper Scissors game where you play against the comput
 
 ## About
 
-This is my first Python project! Started as a two-player game, it now features an AI opponent that makes random moves. Challenge the computer and see if you can win!
+This is my first Python project! Started as a two-player game, it now features an AI opponent that makes random moves.
 
 ---
 
