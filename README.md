@@ -15,9 +15,9 @@ This is my first Python project! Started as a two-player game, it now features a
 ## Features
 
 **Current (v2.0):**
--  **Play against Computer AI** - Challenge the computer opponent!
+-  **Play against Computer AI** - Challenge the computer opponent.
 -  **Random AI decisions** - Computer makes unpredictable moves using `randint`
--  **Case-insensitive input** - Type rock, ROCK, or Rock - all work!
+-  **Case-insensitive input** - Type rock, ROCK, or Rock - all work.
 -  **Input validation** - Helpful error messages for invalid moves
 -  **Win/loss/tie detection** - Clear game results
 
