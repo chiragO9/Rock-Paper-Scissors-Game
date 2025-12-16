@@ -95,15 +95,6 @@ Player wins!
 
 ---
 
-## Author
-
-**Chirag Solanki**
-
-- GitHub: [@chiragO9](https://github.com/chiragO9)
-- Project: [Rock-Paper-Scissors-Game](https://github.com/chiragO9/Rock-Paper-Scissors-Game)
-
----
-
 ## Project Timeline
 
 **Started:** 11 December 2025  
