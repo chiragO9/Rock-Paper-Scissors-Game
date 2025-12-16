@@ -108,7 +108,7 @@ Player wins!
 
 **Started:** 11 December 2024  
 **Last Updated**:12 December 2024  
-**Status:**  Active Development
+**Status:**  Maybe I update if I get interested, right now ¯\_(ツ)_/¯ (I don't know).
 
 ---
 
